@@ -12,11 +12,11 @@ Each lab folder contains:
 ### 💻 Language Used
 - C / C++ (as per PF Lab requirements)
 
-### 🎯 Purpose
+### Purpose
 This repository is maintained for academic record, practice, and submission of lab work.
 
-### 👩‍🎓 Author
-**Hamna**
+### Author
+**Hamna Manzoor**
 BS Computer Science / IT
 Ghazi University, D.G. Khan
 
